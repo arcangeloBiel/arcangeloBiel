@@ -34,13 +34,16 @@
  
  ### Misc
  
- :dart: &nbsp; Futuro: Engenheiro mobile, Dominar conteinerização de aplicações, Aprofundar aplicação do RFID nos negócios e ajudar outros devs apresentando cases de sucesso e o que fizemos pra resolver!
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias/gadgets, academia, seriados, esportes (radicais/trilha)
+ :dart: &nbsp; Futuro: Arquiteto mobile, Aprofundar aplicação em RFID nos negócios e ajudar outros devs apresentando cases de sucesso e o que fizemos pra resolver!
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, academia, seriados, esportes (radicais/trilha)
  
  ### Projetos
  https://github.com/arcangeloBiel/ds_vendas
  <br/>
+ <!--
  https://www.klrentacar.com.br/#/home
+-->
+
  
  ### Contato
  :email: &nbsp; Entre em contato comigo
