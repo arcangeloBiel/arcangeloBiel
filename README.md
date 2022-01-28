@@ -7,7 +7,7 @@
 :bowtie: Me chamo João Arcangelo Azevedo Ribeiro, 33 anos, resido em Brusque/SC (natural de Manaus/AM)<br/>
 :satisfied: Sou apaixonado por criar soluções utilizando tecnologia.<br/>
  :rocket:  &nbsp; Atuo como desenvolvedor em kotlin na <img alt="HAVAN" src="https://img.shields.io/badge/HAVAN-%230F1689.svg?&style=for-the-badge&logo=hugo&logoColor=white"/> 
- <br/><br/> :purple_heart: &nbsp; Buscando projetos em Front-end usando React e Angular, Back-End usando C# e PHP, Mobile usando Ionic, Kotlin e aplicações com RFID!
+ <br/><br/> :purple_heart: &nbsp; Buscando projetos em Front-end usando React e Angular, Back-End usando Node, Mobile usando Kotlin e aplicações com RFID!
  <br/><br/> :computer: &nbsp; Minha Stack: 
  
 <div>
