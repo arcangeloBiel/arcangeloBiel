@@ -34,7 +34,7 @@
  
  ### Misc
  
- :dart: &nbsp; Futuro: Arquiteto mobile, Aprofundar aplicação em RFID nos negócios e ajudar outros devs apresentando cases de sucesso e o que fizemos pra resolver!
+ :dart: &nbsp; Futuro: Arquiteto mobile, aprofundar aplicação em RFID nos negócios e ajudar outros devs apresentando cases de sucesso e o que fizemos pra resolver!
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, academia, seriados, esportes (radicais/trilha)
  
  ### Projetos
