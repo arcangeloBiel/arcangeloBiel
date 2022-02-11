@@ -9,9 +9,6 @@
  :rocket:  &nbsp; Atuo como desenvolvedor em kotlin na <img alt="HAVAN" src="https://img.shields.io/badge/HAVAN-%230F1689.svg?&style=for-the-badge&logo=hugo&logoColor=white"/> 
  <br/><br/> :purple_heart: &nbsp; Buscando projetos em Front-end usando React e Angular, Back-End usando Node JS, Mobile usando Kotlin e aplicações com RFID!
  <br/><br/> :computer: &nbsp; Minha Stack: 
-
- <div style="display: inline_block"><br></div
-
  
 <div>
  <!--
@@ -26,12 +23,13 @@
  <!--
 <img alt="SQLServer" src ="https://img.shields.io/badge/SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 -->
+
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- 
+ <br/>
   <img align="center" alt="Jaca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jaca-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jaca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
