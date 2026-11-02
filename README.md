@@ -47,6 +47,8 @@ Desenvolvedor Android com 8 anos em desenvolvimento de software, sendo 5+ em And
 
 ### 📂 Projetos em Destaque
 
+- [**Rebanho+ (UI)**](https://github.com/arcangeloBiel/rebanhomais-ui) – App Android de gestão de rebanho em Jetpack Compose, com MVI e Clean Architecture.
+- [**Rebanho+ (Business Logic)**](https://github.com/arcangeloBiel/Rebanho-Business-Logic) – Lógica de negócio compartilhada em Kotlin Multiplatform (Android, iOS, Desktop e servidor).
 - [**Clone-app-serasa**](https://github.com/arcangeloBiel/Clone-app-serasa) – Clone do app Serasa construído em Jetpack Compose.
 - [**Barcode**](https://github.com/arcangeloBiel/Barcode) – App Android de leitura de código de barras integrado ao Firebase.
 
@@ -55,6 +57,8 @@ Desenvolvedor Android com 8 anos em desenvolvimento de software, sendo 5+ em And
 ### 📬 Conecte-se comigo
 
 <p align="left">
+- [**Rebanho+ (UI)**](https://github.com/arcangeloBiel/rebanhomais-ui) – App Android de gestão de rebanho em Jetpack Compose, com MVI e Clean Architecture.
+- [**Rebanho+ (Business Logic)**](https://github.com/arcangeloBiel/Rebanho-Business-Logic) – Lógica de negócio compartilhada em Kotlin Multiplatform (Android, iOS, Desktop e servidor).
 <a href="https://www.linkedin.com/in/joaoribeiro-android/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
